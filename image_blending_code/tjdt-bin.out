@@ -1,0 +1,150 @@
+Starting image blending
+./warplane/example_3.jpg
+./warplane/example_5.jpg
+alpha: 0.500000 | blend_labels: 408 | score: 0.176103
+alpha: 0.250000 | blend_labels: 895 | score: 0.906277
+alpha: 0.375000 | blend_labels: 895 | score: 0.417170
+alpha: 0.437500 | blend_labels: 408 | score: 0.239200
+alpha: 0.406250 | blend_labels: 408 | score: 0.235377
+alpha: 0.390625 | blend_labels: 895 | score: 0.306457
+alpha: 0.398438 | blend_labels: 403 | score: 0.250146
+alpha: 0.394531 | blend_labels: 895 | score: 0.270782
+alpha: 0.396484 | blend_labels: 895 | score: 0.255022
+alpha: 0.397461 | blend_labels: 403 | score: 0.250777
+alpha: 0.396973 | blend_labels: 895 | score: 0.251230
+alpha: 0.397217 | blend_labels: 403 | score: 0.250860
+[0.17610272765159607, 0.2501460313796997, 0.2512304484844208]
+[408, 403, 895]
+./img_blend/example_blend_5_3_895_408_0.17610272765159607.jpg was saved
+./img_blend/example_blend_5_3_895_403_0.2501460313796997.jpg was saved
+./img_blend/example_blend_5_3_895_895_0.2512304484844208.jpg was saved
+ # of iterations: 12
+alpha: 0.500000 | blend_labels: 408 | score: 0.176103
+alpha: 0.250000 | blend_labels: 847 | score: 0.412641
+alpha: 0.375000 | blend_labels: 847 | score: 0.714173
+alpha: 0.437500 | blend_labels: 847 | score: 0.371106
+alpha: 0.468750 | blend_labels: 408 | score: 0.238785
+alpha: 0.453125 | blend_labels: 847 | score: 0.285684
+alpha: 0.460938 | blend_labels: 847 | score: 0.266208
+alpha: 0.464844 | blend_labels: 847 | score: 0.252103
+alpha: 0.466797 | blend_labels: 847 | score: 0.245346
+alpha: 0.467773 | blend_labels: 847 | score: 0.241506
+alpha: 0.468262 | blend_labels: 847 | score: 0.239273
+alpha: 0.468506 | blend_labels: 408 | score: 0.238579
+[0.17610272765159607, 0.2392730861902237]
+[408, 847]
+./img_blend/example_blend_3_5_847_408_0.17610272765159607.jpg was saved
+./img_blend/example_blend_3_5_847_847_0.2392730861902237.jpg was saved
+ # of iterations: 12
+./warplane/example_2.jpg
+./warplane/example_5.jpg
+alpha: 0.500000 | blend_labels: 595 | score: 0.365798
+alpha: 0.250000 | blend_labels: 723 | score: 0.865188
+alpha: 0.125000 | blend_labels: 723 | score: 0.853065
+alpha: 0.062500 | blend_labels: 723 | score: 0.816802
+alpha: 0.031250 | blend_labels: 723 | score: 0.809564
+alpha: 0.015625 | blend_labels: 723 | score: 0.813400
+alpha: 0.007812 | blend_labels: 723 | score: 0.820051
+alpha: 0.003906 | blend_labels: 723 | score: 0.823921
+alpha: 0.001953 | blend_labels: 723 | score: 0.825476
+alpha: 0.000977 | blend_labels: 723 | score: 0.825944
+alpha: 0.000488 | blend_labels: 723 | score: 0.826140
+alpha: 0.000244 | blend_labels: 723 | score: 0.826266
+[0.3657975196838379, 0.8095642328262329]
+[595, 723]
+./img_blend/example_blend_5_2_895_595_0.3657975196838379.jpg was saved
+./img_blend/example_blend_5_2_895_723_0.8095642328262329.jpg was saved
+ # of iterations: 12
+alpha: 0.500000 | blend_labels: 595 | score: 0.365798
+alpha: 0.250000 | blend_labels: 847 | score: 0.360488
+alpha: 0.375000 | blend_labels: 730 | score: 0.266200
+alpha: 0.312500 | blend_labels: 730 | score: 0.378729
+alpha: 0.281250 | blend_labels: 595 | score: 0.211936
+alpha: 0.265625 | blend_labels: 847 | score: 0.237942
+alpha: 0.273438 | blend_labels: 847 | score: 0.226396
+alpha: 0.277344 | blend_labels: 847 | score: 0.209261
+alpha: 0.279297 | blend_labels: 595 | score: 0.203099
+alpha: 0.278320 | blend_labels: 847 | score: 0.202682
+alpha: 0.278809 | blend_labels: 595 | score: 0.200427
+alpha: 0.278564 | blend_labels: 847 | score: 0.201029
+[0.2662002146244049, 0.20042739808559418, 0.20102886855602264]
+[730, 595, 847]
+./img_blend/example_blend_2_5_847_730_0.2662002146244049.jpg was saved
+./img_blend/example_blend_2_5_847_595_0.20042739808559418.jpg was saved
+./img_blend/example_blend_2_5_847_847_0.20102886855602264.jpg was saved
+ # of iterations: 12
+./warplane/example_4.jpg
+./warplane/example_5.jpg
+alpha: 0.500000 | blend_labels: 408 | score: 0.473363
+alpha: 0.250000 | blend_labels: 895 | score: 0.629322
+alpha: 0.375000 | blend_labels: 847 | score: 0.580710
+alpha: 0.312500 | blend_labels: 847 | score: 0.389069
+alpha: 0.281250 | blend_labels: 895 | score: 0.467378
+alpha: 0.296875 | blend_labels: 895 | score: 0.318597
+alpha: 0.304688 | blend_labels: 847 | score: 0.302838
+alpha: 0.300781 | blend_labels: 895 | score: 0.294510
+alpha: 0.302734 | blend_labels: 847 | score: 0.287751
+alpha: 0.301758 | blend_labels: 895 | score: 0.289107
+alpha: 0.302246 | blend_labels: 895 | score: 0.285998
+alpha: 0.302490 | blend_labels: 847 | score: 0.286149
+[0.47336339950561523, 0.28614893555641174, 0.28599807620048523]
+[408, 847, 895]
+./img_blend/example_blend_5_4_895_408_0.47336339950561523.jpg was saved
+./img_blend/example_blend_5_4_895_847_0.28614893555641174.jpg was saved
+./img_blend/example_blend_5_4_895_895_0.28599807620048523.jpg was saved
+ # of iterations: 12
+alpha: 0.500000 | blend_labels: 408 | score: 0.473363
+alpha: 0.250000 | blend_labels: 408 | score: 0.409424
+alpha: 0.125000 | blend_labels: 847 | score: 0.370871
+alpha: 0.187500 | blend_labels: 847 | score: 0.260775
+alpha: 0.218750 | blend_labels: 408 | score: 0.269547
+alpha: 0.203125 | blend_labels: 847 | score: 0.245457
+alpha: 0.210938 | blend_labels: 913 | score: 0.229459
+alpha: 0.207031 | blend_labels: 847 | score: 0.233689
+alpha: 0.208984 | blend_labels: 847 | score: 0.225348
+alpha: 0.209961 | blend_labels: 913 | score: 0.224356
+alpha: 0.209473 | blend_labels: 847 | score: 0.223522
+alpha: 0.209717 | blend_labels: 913 | score: 0.223020
+[0.2695467174053192, 0.22302016615867615, 0.22352206707000732]
+[408, 913, 847]
+./img_blend/example_blend_4_5_847_408_0.2695467174053192.jpg was saved
+./img_blend/example_blend_4_5_847_913_0.22302016615867615.jpg was saved
+./img_blend/example_blend_4_5_847_847_0.22352206707000732.jpg was saved
+ # of iterations: 12
+./warplane/example_1.jpg
+./warplane/example_5.jpg
+alpha: 0.500000 | blend_labels: 408 | score: 0.262166
+alpha: 0.250000 | blend_labels: 723 | score: 0.451952
+alpha: 0.125000 | blend_labels: 895 | score: 0.349483
+alpha: 0.187500 | blend_labels: 723 | score: 0.290251
+alpha: 0.156250 | blend_labels: 895 | score: 0.304680
+alpha: 0.171875 | blend_labels: 723 | score: 0.264394
+alpha: 0.164062 | blend_labels: 895 | score: 0.276282
+alpha: 0.167969 | blend_labels: 895 | score: 0.262817
+alpha: 0.169922 | blend_labels: 723 | score: 0.262978
+alpha: 0.168945 | blend_labels: 723 | score: 0.262810
+alpha: 0.168457 | blend_labels: 723 | score: 0.262668
+alpha: 0.168213 | blend_labels: 723 | score: 0.262457
+[0.26216602325439453, 0.2624569833278656, 0.2628169655799866]
+[408, 723, 895]
+./img_blend/example_blend_5_1_895_408_0.26216602325439453.jpg was saved
+./img_blend/example_blend_5_1_895_723_0.2624569833278656.jpg was saved
+./img_blend/example_blend_5_1_895_895_0.2628169655799866.jpg was saved
+ # of iterations: 12
+alpha: 0.500000 | blend_labels: 408 | score: 0.262166
+alpha: 0.250000 | blend_labels: 847 | score: 0.314491
+alpha: 0.375000 | blend_labels: 408 | score: 0.390336
+alpha: 0.312500 | blend_labels: 847 | score: 0.496282
+alpha: 0.343750 | blend_labels: 847 | score: 0.408971
+alpha: 0.359375 | blend_labels: 847 | score: 0.351047
+alpha: 0.367188 | blend_labels: 408 | score: 0.346294
+alpha: 0.363281 | blend_labels: 847 | score: 0.331233
+alpha: 0.365234 | blend_labels: 408 | score: 0.334204
+alpha: 0.364258 | blend_labels: 408 | score: 0.327695
+alpha: 0.363770 | blend_labels: 847 | score: 0.328421
+alpha: 0.364014 | blend_labels: 847 | score: 0.326898
+[0.26216602325439453, 0.3144912123680115]
+[408, 847]
+./img_blend/example_blend_1_5_847_408_0.26216602325439453.jpg was saved
+./img_blend/example_blend_1_5_847_847_0.3144912123680115.jpg was saved
+ # of iterations: 12

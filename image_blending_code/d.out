@@ -1,0 +1,817 @@
+Starting image blending
+./warplane/example_8.jpg  0.999941
+./warplane/example_7.jpg
+alpha: 0.000000 | blend_labels: 405 | score: 0.999999
+alpha: 0.021277 | blend_labels: 405 | score: 0.999999
+alpha: 0.042553 | blend_labels: 405 | score: 0.999999
+alpha: 0.063830 | blend_labels: 405 | score: 0.999999
+alpha: 0.085106 | blend_labels: 405 | score: 0.999998
+alpha: 0.106383 | blend_labels: 405 | score: 0.999996
+alpha: 0.127660 | blend_labels: 405 | score: 0.999973
+alpha: 0.148936 | blend_labels: 405 | score: 0.999916
+alpha: 0.170213 | blend_labels: 405 | score: 0.999855
+alpha: 0.191489 | blend_labels: 405 | score: 0.999340
+alpha: 0.212766 | blend_labels: 405 | score: 0.996373
+alpha: 0.234043 | blend_labels: 405 | score: 0.982791
+alpha: 0.255319 | blend_labels: 405 | score: 0.932429
+alpha: 0.276596 | blend_labels: 405 | score: 0.716527
+alpha: 0.297872 | blend_labels: 405 | score: 0.243045
+alpha: 0.319149 | blend_labels: 921 | score: 0.120664
+alpha: 0.340426 | blend_labels: 921 | score: 0.134487
+alpha: 0.361702 | blend_labels: 921 | score: 0.131319
+alpha: 0.382979 | blend_labels: 908 | score: 0.132539
+alpha: 0.404255 | blend_labels: 908 | score: 0.179387
+alpha: 0.425532 | blend_labels: 908 | score: 0.169077
+alpha: 0.446809 | blend_labels: 908 | score: 0.151088
+alpha: 0.468085 | blend_labels: 908 | score: 0.131446
+alpha: 0.489362 | blend_labels: 908 | score: 0.102046
+alpha: 0.510638 | blend_labels: 517 | score: 0.074441
+alpha: 0.531915 | blend_labels: 764 | score: 0.095000
+alpha: 0.553191 | blend_labels: 764 | score: 0.107001
+alpha: 0.574468 | blend_labels: 764 | score: 0.133164
+alpha: 0.595745 | blend_labels: 764 | score: 0.161015
+alpha: 0.617021 | blend_labels: 764 | score: 0.174302
+alpha: 0.638298 | blend_labels: 764 | score: 0.167469
+alpha: 0.659574 | blend_labels: 764 | score: 0.191534
+alpha: 0.680851 | blend_labels: 764 | score: 0.188837
+alpha: 0.702128 | blend_labels: 764 | score: 0.196442
+alpha: 0.723404 | blend_labels: 764 | score: 0.202777
+alpha: 0.744681 | blend_labels: 764 | score: 0.216130
+alpha: 0.765957 | blend_labels: 764 | score: 0.201202
+alpha: 0.787234 | blend_labels: 764 | score: 0.182122
+alpha: 0.808511 | blend_labels: 764 | score: 0.176286
+alpha: 0.829787 | blend_labels: 764 | score: 0.194399
+alpha: 0.851064 | blend_labels: 764 | score: 0.218702
+alpha: 0.872340 | blend_labels: 764 | score: 0.263875
+alpha: 0.893617 | blend_labels: 764 | score: 0.298322
+alpha: 0.914894 | blend_labels: 764 | score: 0.308177
+alpha: 0.936170 | blend_labels: 764 | score: 0.306662
+alpha: 0.957447 | blend_labels: 764 | score: 0.304880
+alpha: 0.978723 | blend_labels: 764 | score: 0.283466
+alpha: 1.000000 | blend_labels: 764 | score: 0.253067
+[0.07444136589765549, 0.10204599797725677, 0.2430449277162552, 0.12066428363323212, 0.09500037878751755]
+[517, 908, 405, 921, 764]
+[0.5106382978723404, 0.48936170212765956, 0.2978723404255319, 0.3191489361702128, 0.5319148936170213]
+./img_blend/example_blend_exam_exam_405_517_0.07444136589765549.jpg was saved
+./img_blend/example_blend_exam_exam_405_908_0.10204599797725677.jpg was saved
+./img_blend/example_blend_exam_exam_405_405_0.2430449277162552.jpg was saved
+./img_blend/example_blend_exam_exam_405_921_0.12066428363323212.jpg was saved
+./img_blend/example_blend_exam_exam_405_764_0.09500037878751755.jpg was saved
+./warplane/example_9.jpg
+alpha: 0.000000 | blend_labels: 405 | score: 0.999999
+alpha: 0.021277 | blend_labels: 405 | score: 0.999999
+alpha: 0.042553 | blend_labels: 405 | score: 1.000000
+alpha: 0.063830 | blend_labels: 405 | score: 1.000000
+alpha: 0.085106 | blend_labels: 405 | score: 1.000000
+alpha: 0.106383 | blend_labels: 405 | score: 1.000000
+alpha: 0.127660 | blend_labels: 405 | score: 1.000000
+alpha: 0.148936 | blend_labels: 405 | score: 0.999999
+alpha: 0.170213 | blend_labels: 405 | score: 0.999999
+alpha: 0.191489 | blend_labels: 405 | score: 0.999998
+alpha: 0.212766 | blend_labels: 405 | score: 0.999995
+alpha: 0.234043 | blend_labels: 405 | score: 0.999990
+alpha: 0.255319 | blend_labels: 405 | score: 0.999978
+alpha: 0.276596 | blend_labels: 405 | score: 0.999956
+alpha: 0.297872 | blend_labels: 405 | score: 0.999914
+alpha: 0.319149 | blend_labels: 405 | score: 0.999862
+alpha: 0.340426 | blend_labels: 405 | score: 0.999799
+alpha: 0.361702 | blend_labels: 405 | score: 0.999649
+alpha: 0.382979 | blend_labels: 405 | score: 0.999507
+alpha: 0.404255 | blend_labels: 405 | score: 0.999224
+alpha: 0.425532 | blend_labels: 405 | score: 0.997915
+alpha: 0.446809 | blend_labels: 405 | score: 0.991967
+alpha: 0.468085 | blend_labels: 405 | score: 0.980578
+alpha: 0.489362 | blend_labels: 405 | score: 0.964362
+alpha: 0.510638 | blend_labels: 405 | score: 0.941826
+alpha: 0.531915 | blend_labels: 405 | score: 0.892366
+alpha: 0.553191 | blend_labels: 405 | score: 0.826920
+alpha: 0.574468 | blend_labels: 405 | score: 0.811804
+alpha: 0.595745 | blend_labels: 405 | score: 0.688570
+alpha: 0.617021 | blend_labels: 405 | score: 0.584395
+alpha: 0.638298 | blend_labels: 405 | score: 0.487496
+alpha: 0.659574 | blend_labels: 814 | score: 0.534679
+alpha: 0.680851 | blend_labels: 814 | score: 0.511550
+alpha: 0.702128 | blend_labels: 814 | score: 0.498492
+alpha: 0.723404 | blend_labels: 814 | score: 0.472045
+alpha: 0.744681 | blend_labels: 814 | score: 0.452703
+alpha: 0.765957 | blend_labels: 895 | score: 0.418246
+alpha: 0.787234 | blend_labels: 895 | score: 0.609239
+alpha: 0.808511 | blend_labels: 895 | score: 0.720049
+alpha: 0.829787 | blend_labels: 895 | score: 0.814067
+alpha: 0.851064 | blend_labels: 895 | score: 0.853134
+alpha: 0.872340 | blend_labels: 895 | score: 0.870365
+alpha: 0.893617 | blend_labels: 895 | score: 0.868306
+alpha: 0.914894 | blend_labels: 895 | score: 0.873718
+alpha: 0.936170 | blend_labels: 895 | score: 0.868455
+alpha: 0.957447 | blend_labels: 895 | score: 0.860189
+alpha: 0.978723 | blend_labels: 895 | score: 0.849393
+alpha: 1.000000 | blend_labels: 895 | score: 0.839239
+[0.4874958395957947, 0.4527033269405365, 0.4182460606098175]
+[405, 814, 895]
+[0.6382978723404256, 0.7446808510638298, 0.7659574468085106]
+./img_blend/example_blend_exam_exam_405_405_0.4874958395957947.jpg was saved
+./img_blend/example_blend_exam_exam_405_814_0.4527033269405365.jpg was saved
+./img_blend/example_blend_exam_exam_405_895_0.4182460606098175.jpg was saved
+./warplane/example_1.jpg  0.994300
+./warplane/example_9.jpg
+alpha: 0.000000 | blend_labels: 646 | score: 0.974947
+alpha: 0.021277 | blend_labels: 646 | score: 0.972827
+alpha: 0.042553 | blend_labels: 646 | score: 0.971631
+alpha: 0.063830 | blend_labels: 646 | score: 0.970748
+alpha: 0.085106 | blend_labels: 646 | score: 0.970171
+alpha: 0.106383 | blend_labels: 646 | score: 0.965055
+alpha: 0.127660 | blend_labels: 646 | score: 0.949525
+alpha: 0.148936 | blend_labels: 646 | score: 0.930926
+alpha: 0.170213 | blend_labels: 646 | score: 0.937266
+alpha: 0.191489 | blend_labels: 646 | score: 0.954471
+alpha: 0.212766 | blend_labels: 646 | score: 0.969471
+alpha: 0.234043 | blend_labels: 646 | score: 0.972954
+alpha: 0.255319 | blend_labels: 646 | score: 0.975763
+alpha: 0.276596 | blend_labels: 646 | score: 0.986749
+alpha: 0.297872 | blend_labels: 646 | score: 0.990647
+alpha: 0.319149 | blend_labels: 646 | score: 0.987986
+alpha: 0.340426 | blend_labels: 646 | score: 0.977092
+alpha: 0.361702 | blend_labels: 646 | score: 0.962684
+alpha: 0.382979 | blend_labels: 646 | score: 0.893969
+alpha: 0.404255 | blend_labels: 646 | score: 0.747761
+alpha: 0.425532 | blend_labels: 646 | score: 0.578077
+alpha: 0.446809 | blend_labels: 646 | score: 0.400186
+alpha: 0.468085 | blend_labels: 701 | score: 0.400696
+alpha: 0.489362 | blend_labels: 701 | score: 0.468885
+alpha: 0.510638 | blend_labels: 701 | score: 0.500009
+alpha: 0.531915 | blend_labels: 701 | score: 0.536351
+alpha: 0.553191 | blend_labels: 701 | score: 0.572036
+alpha: 0.574468 | blend_labels: 701 | score: 0.587055
+alpha: 0.595745 | blend_labels: 701 | score: 0.562200
+alpha: 0.617021 | blend_labels: 701 | score: 0.512263
+alpha: 0.638298 | blend_labels: 701 | score: 0.391524
+alpha: 0.659574 | blend_labels: 701 | score: 0.292305
+alpha: 0.680851 | blend_labels: 405 | score: 0.231188
+alpha: 0.702128 | blend_labels: 814 | score: 0.267799
+alpha: 0.723404 | blend_labels: 814 | score: 0.448635
+alpha: 0.744681 | blend_labels: 814 | score: 0.521658
+alpha: 0.765957 | blend_labels: 814 | score: 0.454326
+alpha: 0.787234 | blend_labels: 895 | score: 0.698499
+alpha: 0.808511 | blend_labels: 895 | score: 0.703951
+alpha: 0.829787 | blend_labels: 895 | score: 0.781617
+alpha: 0.851064 | blend_labels: 895 | score: 0.864879
+alpha: 0.872340 | blend_labels: 895 | score: 0.875937
+alpha: 0.893617 | blend_labels: 895 | score: 0.860027
+alpha: 0.914894 | blend_labels: 895 | score: 0.850020
+alpha: 0.936170 | blend_labels: 895 | score: 0.838756
+alpha: 0.957447 | blend_labels: 895 | score: 0.837838
+alpha: 0.978723 | blend_labels: 895 | score: 0.841117
+alpha: 1.000000 | blend_labels: 895 | score: 0.839239
+[0.40018585324287415, 0.2677988111972809, 0.2311878353357315, 0.2923052906990051, 0.6984989047050476]
+[646, 814, 405, 701, 895]
+[0.44680851063829785, 0.7021276595744681, 0.6808510638297872, 0.6595744680851063, 0.7872340425531915]
+./img_blend/example_blend_exam_exam_858_646_0.40018585324287415.jpg was saved
+./img_blend/example_blend_exam_exam_858_814_0.2677988111972809.jpg was saved
+./img_blend/example_blend_exam_exam_858_405_0.2311878353357315.jpg was saved
+./img_blend/example_blend_exam_exam_858_701_0.2923052906990051.jpg was saved
+./img_blend/example_blend_exam_exam_858_895_0.6984989047050476.jpg was saved
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 646 | score: 0.974947
+alpha: 0.021277 | blend_labels: 646 | score: 0.973906
+alpha: 0.042553 | blend_labels: 646 | score: 0.971890
+alpha: 0.063830 | blend_labels: 646 | score: 0.971315
+alpha: 0.085106 | blend_labels: 646 | score: 0.970213
+alpha: 0.106383 | blend_labels: 646 | score: 0.966614
+alpha: 0.127660 | blend_labels: 646 | score: 0.958780
+alpha: 0.148936 | blend_labels: 646 | score: 0.950276
+alpha: 0.170213 | blend_labels: 646 | score: 0.942030
+alpha: 0.191489 | blend_labels: 646 | score: 0.927341
+alpha: 0.212766 | blend_labels: 646 | score: 0.904176
+alpha: 0.234043 | blend_labels: 646 | score: 0.882391
+alpha: 0.255319 | blend_labels: 646 | score: 0.836482
+alpha: 0.276596 | blend_labels: 646 | score: 0.802848
+alpha: 0.297872 | blend_labels: 646 | score: 0.767829
+alpha: 0.319149 | blend_labels: 646 | score: 0.708213
+alpha: 0.340426 | blend_labels: 646 | score: 0.659152
+alpha: 0.361702 | blend_labels: 646 | score: 0.608271
+alpha: 0.382979 | blend_labels: 646 | score: 0.518476
+alpha: 0.404255 | blend_labels: 921 | score: 0.561233
+alpha: 0.425532 | blend_labels: 921 | score: 0.678471
+alpha: 0.446809 | blend_labels: 921 | score: 0.712383
+alpha: 0.468085 | blend_labels: 921 | score: 0.764294
+alpha: 0.489362 | blend_labels: 921 | score: 0.758530
+alpha: 0.510638 | blend_labels: 921 | score: 0.753104
+alpha: 0.531915 | blend_labels: 921 | score: 0.761646
+alpha: 0.553191 | blend_labels: 921 | score: 0.711710
+alpha: 0.574468 | blend_labels: 921 | score: 0.633490
+alpha: 0.595745 | blend_labels: 921 | score: 0.483306
+alpha: 0.617021 | blend_labels: 405 | score: 0.400484
+alpha: 0.638298 | blend_labels: 405 | score: 0.790471
+alpha: 0.659574 | blend_labels: 405 | score: 0.948373
+alpha: 0.680851 | blend_labels: 405 | score: 0.989803
+alpha: 0.702128 | blend_labels: 405 | score: 0.996882
+alpha: 0.723404 | blend_labels: 405 | score: 0.999150
+alpha: 0.744681 | blend_labels: 405 | score: 0.999725
+alpha: 0.765957 | blend_labels: 405 | score: 0.999864
+alpha: 0.787234 | blend_labels: 405 | score: 0.999948
+alpha: 0.808511 | blend_labels: 405 | score: 0.999985
+alpha: 0.829787 | blend_labels: 405 | score: 0.999994
+alpha: 0.851064 | blend_labels: 405 | score: 0.999997
+alpha: 0.872340 | blend_labels: 405 | score: 0.999998
+alpha: 0.893617 | blend_labels: 405 | score: 0.999999
+alpha: 0.914894 | blend_labels: 405 | score: 0.999999
+alpha: 0.936170 | blend_labels: 405 | score: 0.999999
+alpha: 0.957447 | blend_labels: 405 | score: 0.999999
+alpha: 0.978723 | blend_labels: 405 | score: 0.999999
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.48330602049827576, 0.4004842936992645, 0.5184761881828308]
+[921, 405, 646]
+[0.5957446808510638, 0.6170212765957447, 0.3829787234042553]
+./img_blend/example_blend_exam_exam_858_921_0.48330602049827576.jpg was saved
+./img_blend/example_blend_exam_exam_858_405_0.4004842936992645.jpg was saved
+./img_blend/example_blend_exam_exam_858_646_0.5184761881828308.jpg was saved
+./warplane/example_7.jpg  0.571259
+./warplane/example_9.jpg
+alpha: 0.000000 | blend_labels: 764 | score: 0.253067
+alpha: 0.021277 | blend_labels: 764 | score: 0.231311
+alpha: 0.042553 | blend_labels: 764 | score: 0.205246
+alpha: 0.063830 | blend_labels: 764 | score: 0.159656
+alpha: 0.085106 | blend_labels: 764 | score: 0.103742
+alpha: 0.106383 | blend_labels: 764 | score: 0.067292
+alpha: 0.127660 | blend_labels: 970 | score: 0.079564
+alpha: 0.148936 | blend_labels: 970 | score: 0.089724
+alpha: 0.170213 | blend_labels: 970 | score: 0.091877
+alpha: 0.191489 | blend_labels: 970 | score: 0.090594
+alpha: 0.212766 | blend_labels: 977 | score: 0.093340
+alpha: 0.234043 | blend_labels: 977 | score: 0.098869
+alpha: 0.255319 | blend_labels: 977 | score: 0.121157
+alpha: 0.276596 | blend_labels: 977 | score: 0.150991
+alpha: 0.297872 | blend_labels: 977 | score: 0.160074
+alpha: 0.319149 | blend_labels: 977 | score: 0.157620
+alpha: 0.340426 | blend_labels: 977 | score: 0.147189
+alpha: 0.361702 | blend_labels: 978 | score: 0.194177
+alpha: 0.382979 | blend_labels: 978 | score: 0.200278
+alpha: 0.404255 | blend_labels: 978 | score: 0.178762
+alpha: 0.425532 | blend_labels: 701 | score: 0.126506
+alpha: 0.446809 | blend_labels: 701 | score: 0.159767
+alpha: 0.468085 | blend_labels: 701 | score: 0.173495
+alpha: 0.489362 | blend_labels: 701 | score: 0.183994
+alpha: 0.510638 | blend_labels: 908 | score: 0.246003
+alpha: 0.531915 | blend_labels: 908 | score: 0.253225
+alpha: 0.553191 | blend_labels: 908 | score: 0.214637
+alpha: 0.574468 | blend_labels: 908 | score: 0.228223
+alpha: 0.595745 | blend_labels: 895 | score: 0.193090
+alpha: 0.617021 | blend_labels: 895 | score: 0.205218
+alpha: 0.638298 | blend_labels: 895 | score: 0.201713
+alpha: 0.659574 | blend_labels: 895 | score: 0.128914
+alpha: 0.680851 | blend_labels: 814 | score: 0.148022
+alpha: 0.702128 | blend_labels: 814 | score: 0.286427
+alpha: 0.723404 | blend_labels: 814 | score: 0.493793
+alpha: 0.744681 | blend_labels: 814 | score: 0.635797
+alpha: 0.765957 | blend_labels: 814 | score: 0.775929
+alpha: 0.787234 | blend_labels: 814 | score: 0.822414
+alpha: 0.808511 | blend_labels: 814 | score: 0.720462
+alpha: 0.829787 | blend_labels: 814 | score: 0.570182
+alpha: 0.851064 | blend_labels: 895 | score: 0.754569
+alpha: 0.872340 | blend_labels: 895 | score: 0.823423
+alpha: 0.893617 | blend_labels: 895 | score: 0.760435
+alpha: 0.914894 | blend_labels: 895 | score: 0.817539
+alpha: 0.936170 | blend_labels: 895 | score: 0.833702
+alpha: 0.957447 | blend_labels: 895 | score: 0.830873
+alpha: 0.978723 | blend_labels: 895 | score: 0.828732
+alpha: 1.000000 | blend_labels: 895 | score: 0.839239
+[0.07956395298242569, 0.2146371454000473, 0.14802150428295135, 0.09333998709917068, 0.1787623167037964, 0.0672924742102623, 0.12650640308856964, 0.12891428172588348]
+[970, 908, 814, 977, 978, 764, 701, 895]
+[0.1276595744680851, 0.5531914893617021, 0.6808510638297872, 0.2127659574468085, 0.40425531914893614, 0.10638297872340426, 0.425531914893617, 0.6595744680851063]
+./img_blend/example_blend_exam_exam_912_970_0.07956395298242569.jpg was saved
+./img_blend/example_blend_exam_exam_912_908_0.2146371454000473.jpg was saved
+./img_blend/example_blend_exam_exam_912_814_0.14802150428295135.jpg was saved
+./img_blend/example_blend_exam_exam_912_977_0.09333998709917068.jpg was saved
+./img_blend/example_blend_exam_exam_912_978_0.1787623167037964.jpg was saved
+./img_blend/example_blend_exam_exam_912_764_0.0672924742102623.jpg was saved
+./img_blend/example_blend_exam_exam_912_701_0.12650640308856964.jpg was saved
+./img_blend/example_blend_exam_exam_912_895_0.12891428172588348.jpg was saved
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 764 | score: 0.253067
+alpha: 0.021277 | blend_labels: 764 | score: 0.283466
+alpha: 0.042553 | blend_labels: 764 | score: 0.304880
+alpha: 0.063830 | blend_labels: 764 | score: 0.306662
+alpha: 0.085106 | blend_labels: 764 | score: 0.308177
+alpha: 0.106383 | blend_labels: 764 | score: 0.298322
+alpha: 0.127660 | blend_labels: 764 | score: 0.263875
+alpha: 0.148936 | blend_labels: 764 | score: 0.218702
+alpha: 0.170213 | blend_labels: 764 | score: 0.194399
+alpha: 0.191489 | blend_labels: 764 | score: 0.176286
+alpha: 0.212766 | blend_labels: 764 | score: 0.182122
+alpha: 0.234043 | blend_labels: 764 | score: 0.201202
+alpha: 0.255319 | blend_labels: 764 | score: 0.216130
+alpha: 0.276596 | blend_labels: 764 | score: 0.202777
+alpha: 0.297872 | blend_labels: 764 | score: 0.196442
+alpha: 0.319149 | blend_labels: 764 | score: 0.188837
+alpha: 0.340426 | blend_labels: 764 | score: 0.191534
+alpha: 0.361702 | blend_labels: 764 | score: 0.167469
+alpha: 0.382979 | blend_labels: 764 | score: 0.174302
+alpha: 0.404255 | blend_labels: 764 | score: 0.161015
+alpha: 0.425532 | blend_labels: 764 | score: 0.133164
+alpha: 0.446809 | blend_labels: 764 | score: 0.107001
+alpha: 0.468085 | blend_labels: 764 | score: 0.095000
+alpha: 0.489362 | blend_labels: 517 | score: 0.074441
+alpha: 0.510638 | blend_labels: 908 | score: 0.102046
+alpha: 0.531915 | blend_labels: 908 | score: 0.131446
+alpha: 0.553191 | blend_labels: 908 | score: 0.151088
+alpha: 0.574468 | blend_labels: 908 | score: 0.169077
+alpha: 0.595745 | blend_labels: 908 | score: 0.179387
+alpha: 0.617021 | blend_labels: 908 | score: 0.132539
+alpha: 0.638298 | blend_labels: 921 | score: 0.131319
+alpha: 0.659574 | blend_labels: 921 | score: 0.134487
+alpha: 0.680851 | blend_labels: 921 | score: 0.120664
+alpha: 0.702128 | blend_labels: 405 | score: 0.243045
+alpha: 0.723404 | blend_labels: 405 | score: 0.716527
+alpha: 0.744681 | blend_labels: 405 | score: 0.932429
+alpha: 0.765957 | blend_labels: 405 | score: 0.982791
+alpha: 0.787234 | blend_labels: 405 | score: 0.996373
+alpha: 0.808511 | blend_labels: 405 | score: 0.999340
+alpha: 0.829787 | blend_labels: 405 | score: 0.999855
+alpha: 0.851064 | blend_labels: 405 | score: 0.999916
+alpha: 0.872340 | blend_labels: 405 | score: 0.999973
+alpha: 0.893617 | blend_labels: 405 | score: 0.999996
+alpha: 0.914894 | blend_labels: 405 | score: 0.999998
+alpha: 0.936170 | blend_labels: 405 | score: 0.999999
+alpha: 0.957447 | blend_labels: 405 | score: 0.999999
+alpha: 0.978723 | blend_labels: 405 | score: 0.999999
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.07444136589765549, 0.10204599797725677, 0.2430449277162552, 0.12066428363323212, 0.09500037878751755]
+[517, 908, 405, 921, 764]
+[0.48936170212765956, 0.5106382978723404, 0.7021276595744681, 0.6808510638297872, 0.46808510638297873]
+./img_blend/example_blend_exam_exam_912_517_0.07444136589765549.jpg was saved
+./img_blend/example_blend_exam_exam_912_908_0.10204599797725677.jpg was saved
+./img_blend/example_blend_exam_exam_912_405_0.2430449277162552.jpg was saved
+./img_blend/example_blend_exam_exam_912_921_0.12066428363323212.jpg was saved
+./img_blend/example_blend_exam_exam_912_764_0.09500037878751755.jpg was saved
+./warplane/example_4.jpg  0.639389
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 549 | score: 0.122702
+alpha: 0.021277 | blend_labels: 868 | score: 0.118417
+alpha: 0.042553 | blend_labels: 868 | score: 0.113840
+alpha: 0.063830 | blend_labels: 868 | score: 0.110827
+alpha: 0.085106 | blend_labels: 868 | score: 0.107983
+alpha: 0.106383 | blend_labels: 868 | score: 0.107730
+alpha: 0.127660 | blend_labels: 868 | score: 0.105263
+alpha: 0.148936 | blend_labels: 868 | score: 0.100034
+alpha: 0.170213 | blend_labels: 868 | score: 0.100256
+alpha: 0.191489 | blend_labels: 868 | score: 0.107249
+alpha: 0.212766 | blend_labels: 868 | score: 0.113365
+alpha: 0.234043 | blend_labels: 417 | score: 0.091308
+alpha: 0.255319 | blend_labels: 433 | score: 0.094141
+alpha: 0.276596 | blend_labels: 433 | score: 0.111906
+alpha: 0.297872 | blend_labels: 433 | score: 0.122666
+alpha: 0.319149 | blend_labels: 433 | score: 0.140447
+alpha: 0.340426 | blend_labels: 433 | score: 0.169858
+alpha: 0.361702 | blend_labels: 433 | score: 0.162855
+alpha: 0.382979 | blend_labels: 433 | score: 0.149190
+alpha: 0.404255 | blend_labels: 433 | score: 0.147900
+alpha: 0.425532 | blend_labels: 433 | score: 0.159440
+alpha: 0.446809 | blend_labels: 433 | score: 0.135618
+alpha: 0.468085 | blend_labels: 433 | score: 0.118842
+alpha: 0.489362 | blend_labels: 433 | score: 0.125233
+alpha: 0.510638 | blend_labels: 433 | score: 0.153240
+alpha: 0.531915 | blend_labels: 433 | score: 0.127747
+alpha: 0.553191 | blend_labels: 868 | score: 0.112710
+alpha: 0.574468 | blend_labels: 868 | score: 0.140357
+alpha: 0.595745 | blend_labels: 868 | score: 0.203776
+alpha: 0.617021 | blend_labels: 868 | score: 0.221982
+alpha: 0.638298 | blend_labels: 868 | score: 0.227647
+alpha: 0.659574 | blend_labels: 868 | score: 0.201992
+alpha: 0.680851 | blend_labels: 868 | score: 0.214350
+alpha: 0.702128 | blend_labels: 868 | score: 0.306511
+alpha: 0.723404 | blend_labels: 868 | score: 0.271231
+alpha: 0.744681 | blend_labels: 405 | score: 0.456925
+alpha: 0.765957 | blend_labels: 405 | score: 0.791049
+alpha: 0.787234 | blend_labels: 405 | score: 0.955428
+alpha: 0.808511 | blend_labels: 405 | score: 0.995076
+alpha: 0.829787 | blend_labels: 405 | score: 0.998723
+alpha: 0.851064 | blend_labels: 405 | score: 0.999505
+alpha: 0.872340 | blend_labels: 405 | score: 0.999750
+alpha: 0.893617 | blend_labels: 405 | score: 0.999948
+alpha: 0.914894 | blend_labels: 405 | score: 0.999989
+alpha: 0.936170 | blend_labels: 405 | score: 0.999997
+alpha: 0.957447 | blend_labels: 405 | score: 0.999999
+alpha: 0.978723 | blend_labels: 405 | score: 1.000000
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.09130839258432388, 0.10003378242254257, 0.12270237505435944, 0.09414145350456238, 0.4569246172904968]
+[417, 868, 549, 433, 405]
+[0.23404255319148937, 0.14893617021276595, 0.0, 0.2553191489361702, 0.7446808510638298]
+./img_blend/example_blend_exam_exam_985_417_0.09130839258432388.jpg was saved
+./img_blend/example_blend_exam_exam_985_868_0.10003378242254257.jpg was saved
+./img_blend/example_blend_exam_exam_985_549_0.12270237505435944.jpg was saved
+./img_blend/example_blend_exam_exam_985_433_0.09414145350456238.jpg was saved
+./img_blend/example_blend_exam_exam_985_405_0.4569246172904968.jpg was saved
+./warplane/example_3.jpg
+alpha: 0.000000 | blend_labels: 549 | score: 0.122702
+alpha: 0.021277 | blend_labels: 868 | score: 0.125755
+alpha: 0.042553 | blend_labels: 868 | score: 0.122811
+alpha: 0.063830 | blend_labels: 868 | score: 0.116329
+alpha: 0.085106 | blend_labels: 868 | score: 0.110782
+alpha: 0.106383 | blend_labels: 868 | score: 0.098988
+alpha: 0.127660 | blend_labels: 417 | score: 0.098582
+alpha: 0.148936 | blend_labels: 417 | score: 0.138153
+alpha: 0.170213 | blend_labels: 417 | score: 0.210035
+alpha: 0.191489 | blend_labels: 417 | score: 0.205271
+alpha: 0.212766 | blend_labels: 417 | score: 0.200796
+alpha: 0.234043 | blend_labels: 417 | score: 0.199217
+alpha: 0.255319 | blend_labels: 417 | score: 0.189143
+alpha: 0.276596 | blend_labels: 417 | score: 0.194044
+alpha: 0.297872 | blend_labels: 417 | score: 0.131712
+alpha: 0.319149 | blend_labels: 971 | score: 0.149430
+alpha: 0.340426 | blend_labels: 971 | score: 0.210421
+alpha: 0.361702 | blend_labels: 971 | score: 0.289811
+alpha: 0.382979 | blend_labels: 971 | score: 0.379230
+alpha: 0.404255 | blend_labels: 971 | score: 0.348076
+alpha: 0.425532 | blend_labels: 971 | score: 0.279414
+alpha: 0.446809 | blend_labels: 971 | score: 0.158331
+alpha: 0.468085 | blend_labels: 968 | score: 0.227910
+alpha: 0.489362 | blend_labels: 968 | score: 0.210632
+alpha: 0.510638 | blend_labels: 968 | score: 0.241675
+alpha: 0.531915 | blend_labels: 968 | score: 0.223852
+alpha: 0.553191 | blend_labels: 463 | score: 0.244127
+alpha: 0.574468 | blend_labels: 463 | score: 0.253125
+alpha: 0.595745 | blend_labels: 463 | score: 0.249683
+alpha: 0.617021 | blend_labels: 647 | score: 0.226745
+alpha: 0.638298 | blend_labels: 463 | score: 0.239868
+alpha: 0.659574 | blend_labels: 647 | score: 0.209887
+alpha: 0.680851 | blend_labels: 441 | score: 0.352803
+alpha: 0.702128 | blend_labels: 441 | score: 0.420626
+alpha: 0.723404 | blend_labels: 441 | score: 0.434222
+alpha: 0.744681 | blend_labels: 441 | score: 0.667040
+alpha: 0.765957 | blend_labels: 441 | score: 0.826507
+alpha: 0.787234 | blend_labels: 441 | score: 0.872612
+alpha: 0.808511 | blend_labels: 441 | score: 0.910600
+alpha: 0.829787 | blend_labels: 441 | score: 0.928403
+alpha: 0.851064 | blend_labels: 441 | score: 0.932603
+alpha: 0.872340 | blend_labels: 441 | score: 0.937843
+alpha: 0.893617 | blend_labels: 441 | score: 0.944681
+alpha: 0.914894 | blend_labels: 441 | score: 0.957418
+alpha: 0.936170 | blend_labels: 441 | score: 0.970975
+alpha: 0.957447 | blend_labels: 441 | score: 0.977603
+alpha: 0.978723 | blend_labels: 441 | score: 0.974043
+alpha: 1.000000 | blend_labels: 441 | score: 0.970293
+[0.0985824465751648, 0.09898792207241058, 0.12270237505435944, 0.20988748967647552, 0.21063189208507538, 0.14942993223667145, 0.23986753821372986, 0.35280346870422363]
+[417, 868, 549, 647, 968, 971, 463, 441]
+[0.1276595744680851, 0.10638297872340426, 0.0, 0.6595744680851063, 0.48936170212765956, 0.3191489361702128, 0.6382978723404256, 0.6808510638297872]
+./img_blend/example_blend_exam_exam_985_417_0.0985824465751648.jpg was saved
+./img_blend/example_blend_exam_exam_985_868_0.09898792207241058.jpg was saved
+./img_blend/example_blend_exam_exam_985_549_0.12270237505435944.jpg was saved
+./img_blend/example_blend_exam_exam_985_647_0.20988748967647552.jpg was saved
+./img_blend/example_blend_exam_exam_985_968_0.21063189208507538.jpg was saved
+./img_blend/example_blend_exam_exam_985_971_0.14942993223667145.jpg was saved
+./img_blend/example_blend_exam_exam_985_463_0.23986753821372986.jpg was saved
+./img_blend/example_blend_exam_exam_985_441_0.35280346870422363.jpg was saved
+./warplane/example_2.jpg  0.154854
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 945 | score: 0.145684
+alpha: 0.021277 | blend_labels: 945 | score: 0.139484
+alpha: 0.042553 | blend_labels: 923 | score: 0.141375
+alpha: 0.063830 | blend_labels: 923 | score: 0.143855
+alpha: 0.085106 | blend_labels: 923 | score: 0.144865
+alpha: 0.106383 | blend_labels: 923 | score: 0.147317
+alpha: 0.127660 | blend_labels: 923 | score: 0.148993
+alpha: 0.148936 | blend_labels: 923 | score: 0.152071
+alpha: 0.170213 | blend_labels: 923 | score: 0.154629
+alpha: 0.191489 | blend_labels: 923 | score: 0.160990
+alpha: 0.212766 | blend_labels: 923 | score: 0.160627
+alpha: 0.234043 | blend_labels: 923 | score: 0.164226
+alpha: 0.255319 | blend_labels: 923 | score: 0.168343
+alpha: 0.276596 | blend_labels: 923 | score: 0.168513
+alpha: 0.297872 | blend_labels: 923 | score: 0.160426
+alpha: 0.319149 | blend_labels: 959 | score: 0.146199
+alpha: 0.340426 | blend_labels: 71 | score: 0.142056
+alpha: 0.361702 | blend_labels: 71 | score: 0.200459
+alpha: 0.382979 | blend_labels: 71 | score: 0.216955
+alpha: 0.404255 | blend_labels: 71 | score: 0.280492
+alpha: 0.425532 | blend_labels: 71 | score: 0.319398
+alpha: 0.446809 | blend_labels: 71 | score: 0.331320
+alpha: 0.468085 | blend_labels: 71 | score: 0.234245
+alpha: 0.489362 | blend_labels: 71 | score: 0.164566
+alpha: 0.510638 | blend_labels: 71 | score: 0.098171
+alpha: 0.531915 | blend_labels: 934 | score: 0.092643
+alpha: 0.553191 | blend_labels: 934 | score: 0.177533
+alpha: 0.574468 | blend_labels: 934 | score: 0.288303
+alpha: 0.595745 | blend_labels: 934 | score: 0.372237
+alpha: 0.617021 | blend_labels: 934 | score: 0.567455
+alpha: 0.638298 | blend_labels: 934 | score: 0.741256
+alpha: 0.659574 | blend_labels: 934 | score: 0.797392
+alpha: 0.680851 | blend_labels: 934 | score: 0.692807
+alpha: 0.702128 | blend_labels: 405 | score: 0.442372
+alpha: 0.723404 | blend_labels: 405 | score: 0.714402
+alpha: 0.744681 | blend_labels: 405 | score: 0.834452
+alpha: 0.765957 | blend_labels: 405 | score: 0.948713
+alpha: 0.787234 | blend_labels: 405 | score: 0.992733
+alpha: 0.808511 | blend_labels: 405 | score: 0.999043
+alpha: 0.829787 | blend_labels: 405 | score: 0.999534
+alpha: 0.851064 | blend_labels: 405 | score: 0.999872
+alpha: 0.872340 | blend_labels: 405 | score: 0.999984
+alpha: 0.893617 | blend_labels: 405 | score: 0.999996
+alpha: 0.914894 | blend_labels: 405 | score: 0.999998
+alpha: 0.936170 | blend_labels: 405 | score: 0.999999
+alpha: 0.957447 | blend_labels: 405 | score: 0.999998
+alpha: 0.978723 | blend_labels: 405 | score: 0.999999
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.0926433876156807, 0.09817133098840714, 0.1394844800233841, 0.44237199425697327, 0.14137527346611023, 0.14619852602481842]
+[934, 71, 945, 405, 923, 959]
+[0.5319148936170213, 0.5106382978723404, 0.02127659574468085, 0.7021276595744681, 0.0425531914893617, 0.3191489361702128]
+./img_blend/example_blend_exam_exam_987_934_0.0926433876156807.jpg was saved
+./img_blend/example_blend_exam_exam_987_71_0.09817133098840714.jpg was saved
+./img_blend/example_blend_exam_exam_987_945_0.1394844800233841.jpg was saved
+./img_blend/example_blend_exam_exam_987_405_0.44237199425697327.jpg was saved
+./img_blend/example_blend_exam_exam_987_923_0.14137527346611023.jpg was saved
+./img_blend/example_blend_exam_exam_987_959_0.14619852602481842.jpg was saved
+./warplane/example_1.jpg
+alpha: 0.000000 | blend_labels: 945 | score: 0.145684
+alpha: 0.021277 | blend_labels: 945 | score: 0.156705
+alpha: 0.042553 | blend_labels: 945 | score: 0.164698
+alpha: 0.063830 | blend_labels: 945 | score: 0.176659
+alpha: 0.085106 | blend_labels: 945 | score: 0.194259
+alpha: 0.106383 | blend_labels: 945 | score: 0.202772
+alpha: 0.127660 | blend_labels: 945 | score: 0.202290
+alpha: 0.148936 | blend_labels: 945 | score: 0.211820
+alpha: 0.170213 | blend_labels: 945 | score: 0.217914
+alpha: 0.191489 | blend_labels: 945 | score: 0.215166
+alpha: 0.212766 | blend_labels: 945 | score: 0.202797
+alpha: 0.234043 | blend_labels: 934 | score: 0.273082
+alpha: 0.255319 | blend_labels: 934 | score: 0.380982
+alpha: 0.276596 | blend_labels: 934 | score: 0.480673
+alpha: 0.297872 | blend_labels: 934 | score: 0.604774
+alpha: 0.319149 | blend_labels: 934 | score: 0.710926
+alpha: 0.340426 | blend_labels: 934 | score: 0.800880
+alpha: 0.361702 | blend_labels: 934 | score: 0.815896
+alpha: 0.382979 | blend_labels: 934 | score: 0.706863
+alpha: 0.404255 | blend_labels: 934 | score: 0.511014
+alpha: 0.425532 | blend_labels: 934 | score: 0.377909
+alpha: 0.446809 | blend_labels: 934 | score: 0.292689
+alpha: 0.468085 | blend_labels: 934 | score: 0.252350
+alpha: 0.489362 | blend_labels: 69 | score: 0.331526
+alpha: 0.510638 | blend_labels: 69 | score: 0.567684
+alpha: 0.531915 | blend_labels: 69 | score: 0.609853
+alpha: 0.553191 | blend_labels: 69 | score: 0.445951
+alpha: 0.574468 | blend_labels: 116 | score: 0.429931
+alpha: 0.595745 | blend_labels: 116 | score: 0.505118
+alpha: 0.617021 | blend_labels: 116 | score: 0.393807
+alpha: 0.638298 | blend_labels: 980 | score: 0.142577
+alpha: 0.659574 | blend_labels: 701 | score: 0.214714
+alpha: 0.680851 | blend_labels: 701 | score: 0.217099
+alpha: 0.702128 | blend_labels: 980 | score: 0.234032
+alpha: 0.723404 | blend_labels: 980 | score: 0.228033
+alpha: 0.744681 | blend_labels: 701 | score: 0.201303
+alpha: 0.765957 | blend_labels: 646 | score: 0.332728
+alpha: 0.787234 | blend_labels: 646 | score: 0.527770
+alpha: 0.808511 | blend_labels: 646 | score: 0.629714
+alpha: 0.829787 | blend_labels: 646 | score: 0.680710
+alpha: 0.851064 | blend_labels: 646 | score: 0.728555
+alpha: 0.872340 | blend_labels: 646 | score: 0.787036
+alpha: 0.893617 | blend_labels: 646 | score: 0.870892
+alpha: 0.914894 | blend_labels: 646 | score: 0.947867
+alpha: 0.936170 | blend_labels: 646 | score: 0.985185
+alpha: 0.957447 | blend_labels: 646 | score: 0.982319
+alpha: 0.978723 | blend_labels: 646 | score: 0.981496
+alpha: 1.000000 | blend_labels: 646 | score: 0.974947
+[0.33152565360069275, 0.2523503601551056, 0.33272770047187805, 0.14568376541137695, 0.14257659018039703, 0.39380693435668945, 0.20130310952663422]
+[69, 934, 646, 945, 980, 116, 701]
+[0.48936170212765956, 0.46808510638297873, 0.7659574468085106, 0.0, 0.6382978723404256, 0.6170212765957447, 0.7446808510638298]
+./img_blend/example_blend_exam_exam_987_69_0.33152565360069275.jpg was saved
+./img_blend/example_blend_exam_exam_987_934_0.2523503601551056.jpg was saved
+./img_blend/example_blend_exam_exam_987_646_0.33272770047187805.jpg was saved
+./img_blend/example_blend_exam_exam_987_945_0.14568376541137695.jpg was saved
+./img_blend/example_blend_exam_exam_987_980_0.14257659018039703.jpg was saved
+./img_blend/example_blend_exam_exam_987_116_0.39380693435668945.jpg was saved
+./img_blend/example_blend_exam_exam_987_701_0.20130310952663422.jpg was saved
+./warplane/example_3.jpg  0.995177
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 441 | score: 0.970293
+alpha: 0.021277 | blend_labels: 441 | score: 0.974616
+alpha: 0.042553 | blend_labels: 441 | score: 0.975634
+alpha: 0.063830 | blend_labels: 441 | score: 0.974005
+alpha: 0.085106 | blend_labels: 441 | score: 0.971091
+alpha: 0.106383 | blend_labels: 441 | score: 0.968113
+alpha: 0.127660 | blend_labels: 441 | score: 0.966450
+alpha: 0.148936 | blend_labels: 441 | score: 0.968999
+alpha: 0.170213 | blend_labels: 441 | score: 0.972374
+alpha: 0.191489 | blend_labels: 441 | score: 0.975798
+alpha: 0.212766 | blend_labels: 441 | score: 0.980513
+alpha: 0.234043 | blend_labels: 441 | score: 0.982553
+alpha: 0.255319 | blend_labels: 441 | score: 0.983881
+alpha: 0.276596 | blend_labels: 441 | score: 0.987222
+alpha: 0.297872 | blend_labels: 441 | score: 0.989597
+alpha: 0.319149 | blend_labels: 441 | score: 0.990840
+alpha: 0.340426 | blend_labels: 441 | score: 0.991853
+alpha: 0.361702 | blend_labels: 441 | score: 0.992007
+alpha: 0.382979 | blend_labels: 441 | score: 0.992526
+alpha: 0.404255 | blend_labels: 441 | score: 0.992111
+alpha: 0.425532 | blend_labels: 441 | score: 0.992134
+alpha: 0.446809 | blend_labels: 441 | score: 0.993881
+alpha: 0.468085 | blend_labels: 441 | score: 0.993671
+alpha: 0.489362 | blend_labels: 441 | score: 0.992896
+alpha: 0.510638 | blend_labels: 441 | score: 0.994180
+alpha: 0.531915 | blend_labels: 441 | score: 0.993818
+alpha: 0.553191 | blend_labels: 441 | score: 0.994231
+alpha: 0.574468 | blend_labels: 441 | score: 0.994802
+alpha: 0.595745 | blend_labels: 441 | score: 0.994544
+alpha: 0.617021 | blend_labels: 441 | score: 0.994637
+alpha: 0.638298 | blend_labels: 441 | score: 0.994052
+alpha: 0.659574 | blend_labels: 441 | score: 0.990671
+alpha: 0.680851 | blend_labels: 441 | score: 0.981942
+alpha: 0.702128 | blend_labels: 441 | score: 0.976945
+alpha: 0.723404 | blend_labels: 441 | score: 0.971368
+alpha: 0.744681 | blend_labels: 441 | score: 0.975207
+alpha: 0.765957 | blend_labels: 441 | score: 0.981398
+alpha: 0.787234 | blend_labels: 441 | score: 0.982537
+alpha: 0.808511 | blend_labels: 441 | score: 0.804040
+alpha: 0.829787 | blend_labels: 405 | score: 0.929978
+alpha: 0.851064 | blend_labels: 405 | score: 0.997240
+alpha: 0.872340 | blend_labels: 405 | score: 0.999878
+alpha: 0.893617 | blend_labels: 405 | score: 0.999993
+alpha: 0.914894 | blend_labels: 405 | score: 0.999998
+alpha: 0.936170 | blend_labels: 405 | score: 0.999999
+alpha: 0.957447 | blend_labels: 405 | score: 0.999999
+alpha: 0.978723 | blend_labels: 405 | score: 0.999999
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.8040403127670288, 0.9299777150154114]
+[441, 405]
+[0.8085106382978723, 0.8297872340425532]
+./img_blend/example_blend_exam_exam_441_441_0.8040403127670288.jpg was saved
+./img_blend/example_blend_exam_exam_441_405_0.9299777150154114.jpg was saved
+./warplane/example_9.jpg
+alpha: 0.000000 | blend_labels: 441 | score: 0.970293
+alpha: 0.021277 | blend_labels: 441 | score: 0.977105
+alpha: 0.042553 | blend_labels: 441 | score: 0.982106
+alpha: 0.063830 | blend_labels: 441 | score: 0.985957
+alpha: 0.085106 | blend_labels: 441 | score: 0.987515
+alpha: 0.106383 | blend_labels: 441 | score: 0.987468
+alpha: 0.127660 | blend_labels: 441 | score: 0.986573
+alpha: 0.148936 | blend_labels: 441 | score: 0.985705
+alpha: 0.170213 | blend_labels: 441 | score: 0.981684
+alpha: 0.191489 | blend_labels: 441 | score: 0.977565
+alpha: 0.212766 | blend_labels: 441 | score: 0.975625
+alpha: 0.234043 | blend_labels: 441 | score: 0.977056
+alpha: 0.255319 | blend_labels: 441 | score: 0.977365
+alpha: 0.276596 | blend_labels: 441 | score: 0.971026
+alpha: 0.297872 | blend_labels: 441 | score: 0.963198
+alpha: 0.319149 | blend_labels: 441 | score: 0.947478
+alpha: 0.340426 | blend_labels: 441 | score: 0.937450
+alpha: 0.361702 | blend_labels: 441 | score: 0.907553
+alpha: 0.382979 | blend_labels: 441 | score: 0.872769
+alpha: 0.404255 | blend_labels: 441 | score: 0.808805
+alpha: 0.425532 | blend_labels: 441 | score: 0.629355
+alpha: 0.446809 | blend_labels: 441 | score: 0.345121
+alpha: 0.468085 | blend_labels: 504 | score: 0.328226
+alpha: 0.489362 | blend_labels: 504 | score: 0.269488
+alpha: 0.510638 | blend_labels: 504 | score: 0.137274
+alpha: 0.531915 | blend_labels: 659 | score: 0.084871
+alpha: 0.553191 | blend_labels: 669 | score: 0.117470
+alpha: 0.574468 | blend_labels: 669 | score: 0.189222
+alpha: 0.595745 | blend_labels: 669 | score: 0.185701
+alpha: 0.617021 | blend_labels: 669 | score: 0.158967
+alpha: 0.638298 | blend_labels: 669 | score: 0.142731
+alpha: 0.659574 | blend_labels: 669 | score: 0.133116
+alpha: 0.680851 | blend_labels: 913 | score: 0.175002
+alpha: 0.702128 | blend_labels: 913 | score: 0.158512
+alpha: 0.723404 | blend_labels: 913 | score: 0.181577
+alpha: 0.744681 | blend_labels: 456 | score: 0.121378
+alpha: 0.765957 | blend_labels: 895 | score: 0.286765
+alpha: 0.787234 | blend_labels: 895 | score: 0.577130
+alpha: 0.808511 | blend_labels: 895 | score: 0.680322
+alpha: 0.829787 | blend_labels: 895 | score: 0.687519
+alpha: 0.851064 | blend_labels: 895 | score: 0.752949
+alpha: 0.872340 | blend_labels: 895 | score: 0.764732
+alpha: 0.893617 | blend_labels: 895 | score: 0.791493
+alpha: 0.914894 | blend_labels: 895 | score: 0.789213
+alpha: 0.936170 | blend_labels: 895 | score: 0.788323
+alpha: 0.957447 | blend_labels: 895 | score: 0.794915
+alpha: 0.978723 | blend_labels: 895 | score: 0.812414
+alpha: 1.000000 | blend_labels: 895 | score: 0.839239
+[0.1213778704404831, 0.15851184725761414, 0.0848708525300026, 0.13727432489395142, 0.34512072801589966, 0.11746986955404282, 0.2867653965950012]
+[456, 913, 659, 504, 441, 669, 895]
+[0.7446808510638298, 0.7021276595744681, 0.5319148936170213, 0.5106382978723404, 0.44680851063829785, 0.5531914893617021, 0.7659574468085106]
+./img_blend/example_blend_exam_exam_441_456_0.1213778704404831.jpg was saved
+./img_blend/example_blend_exam_exam_441_913_0.15851184725761414.jpg was saved
+./img_blend/example_blend_exam_exam_441_659_0.0848708525300026.jpg was saved
+./img_blend/example_blend_exam_exam_441_504_0.13727432489395142.jpg was saved
+./img_blend/example_blend_exam_exam_441_441_0.34512072801589966.jpg was saved
+./img_blend/example_blend_exam_exam_441_669_0.11746986955404282.jpg was saved
+./img_blend/example_blend_exam_exam_441_895_0.2867653965950012.jpg was saved
+./warplane/example_9.jpg  0.939235
+./warplane/example_7.jpg
+alpha: 0.000000 | blend_labels: 895 | score: 0.839239
+alpha: 0.021277 | blend_labels: 895 | score: 0.828732
+alpha: 0.042553 | blend_labels: 895 | score: 0.830873
+alpha: 0.063830 | blend_labels: 895 | score: 0.833702
+alpha: 0.085106 | blend_labels: 895 | score: 0.817539
+alpha: 0.106383 | blend_labels: 895 | score: 0.760435
+alpha: 0.127660 | blend_labels: 895 | score: 0.823423
+alpha: 0.148936 | blend_labels: 895 | score: 0.754569
+alpha: 0.170213 | blend_labels: 814 | score: 0.570182
+alpha: 0.191489 | blend_labels: 814 | score: 0.720462
+alpha: 0.212766 | blend_labels: 814 | score: 0.822414
+alpha: 0.234043 | blend_labels: 814 | score: 0.775929
+alpha: 0.255319 | blend_labels: 814 | score: 0.635797
+alpha: 0.276596 | blend_labels: 814 | score: 0.493793
+alpha: 0.297872 | blend_labels: 814 | score: 0.286427
+alpha: 0.319149 | blend_labels: 814 | score: 0.148022
+alpha: 0.340426 | blend_labels: 895 | score: 0.128914
+alpha: 0.361702 | blend_labels: 895 | score: 0.201713
+alpha: 0.382979 | blend_labels: 895 | score: 0.205218
+alpha: 0.404255 | blend_labels: 895 | score: 0.193090
+alpha: 0.425532 | blend_labels: 908 | score: 0.228223
+alpha: 0.446809 | blend_labels: 908 | score: 0.214637
+alpha: 0.468085 | blend_labels: 908 | score: 0.253225
+alpha: 0.489362 | blend_labels: 908 | score: 0.246003
+alpha: 0.510638 | blend_labels: 701 | score: 0.183994
+alpha: 0.531915 | blend_labels: 701 | score: 0.173495
+alpha: 0.553191 | blend_labels: 701 | score: 0.159767
+alpha: 0.574468 | blend_labels: 701 | score: 0.126506
+alpha: 0.595745 | blend_labels: 978 | score: 0.178762
+alpha: 0.617021 | blend_labels: 978 | score: 0.200278
+alpha: 0.638298 | blend_labels: 978 | score: 0.194177
+alpha: 0.659574 | blend_labels: 977 | score: 0.147189
+alpha: 0.680851 | blend_labels: 977 | score: 0.157620
+alpha: 0.702128 | blend_labels: 977 | score: 0.160074
+alpha: 0.723404 | blend_labels: 977 | score: 0.150991
+alpha: 0.744681 | blend_labels: 977 | score: 0.121157
+alpha: 0.765957 | blend_labels: 977 | score: 0.098869
+alpha: 0.787234 | blend_labels: 977 | score: 0.093340
+alpha: 0.808511 | blend_labels: 970 | score: 0.090594
+alpha: 0.829787 | blend_labels: 970 | score: 0.091877
+alpha: 0.851064 | blend_labels: 970 | score: 0.089724
+alpha: 0.872340 | blend_labels: 970 | score: 0.079564
+alpha: 0.893617 | blend_labels: 764 | score: 0.067292
+alpha: 0.914894 | blend_labels: 764 | score: 0.103742
+alpha: 0.936170 | blend_labels: 764 | score: 0.159656
+alpha: 0.957447 | blend_labels: 764 | score: 0.205246
+alpha: 0.978723 | blend_labels: 764 | score: 0.231311
+alpha: 1.000000 | blend_labels: 764 | score: 0.253067
+[0.07956395298242569, 0.2146371454000473, 0.14802150428295135, 0.09333998709917068, 0.1787623167037964, 0.0672924742102623, 0.12650640308856964, 0.12891428172588348]
+[970, 908, 814, 977, 978, 764, 701, 895]
+[0.8723404255319148, 0.44680851063829785, 0.3191489361702128, 0.7872340425531915, 0.5957446808510638, 0.8936170212765957, 0.5744680851063829, 0.3404255319148936]
+./img_blend/example_blend_exam_exam_895_970_0.07956395298242569.jpg was saved
+./img_blend/example_blend_exam_exam_895_908_0.2146371454000473.jpg was saved
+./img_blend/example_blend_exam_exam_895_814_0.14802150428295135.jpg was saved
+./img_blend/example_blend_exam_exam_895_977_0.09333998709917068.jpg was saved
+./img_blend/example_blend_exam_exam_895_978_0.1787623167037964.jpg was saved
+./img_blend/example_blend_exam_exam_895_764_0.0672924742102623.jpg was saved
+./img_blend/example_blend_exam_exam_895_701_0.12650640308856964.jpg was saved
+./img_blend/example_blend_exam_exam_895_895_0.12891428172588348.jpg was saved
+./warplane/example_8.jpg
+alpha: 0.000000 | blend_labels: 895 | score: 0.839239
+alpha: 0.021277 | blend_labels: 895 | score: 0.849393
+alpha: 0.042553 | blend_labels: 895 | score: 0.860189
+alpha: 0.063830 | blend_labels: 895 | score: 0.868455
+alpha: 0.085106 | blend_labels: 895 | score: 0.873718
+alpha: 0.106383 | blend_labels: 895 | score: 0.868306
+alpha: 0.127660 | blend_labels: 895 | score: 0.870365
+alpha: 0.148936 | blend_labels: 895 | score: 0.853134
+alpha: 0.170213 | blend_labels: 895 | score: 0.814067
+alpha: 0.191489 | blend_labels: 895 | score: 0.720049
+alpha: 0.212766 | blend_labels: 895 | score: 0.609239
+alpha: 0.234043 | blend_labels: 895 | score: 0.418246
+alpha: 0.255319 | blend_labels: 814 | score: 0.452703
+alpha: 0.276596 | blend_labels: 814 | score: 0.472045
+alpha: 0.297872 | blend_labels: 814 | score: 0.498492
+alpha: 0.319149 | blend_labels: 814 | score: 0.511550
+alpha: 0.340426 | blend_labels: 814 | score: 0.534679
+alpha: 0.361702 | blend_labels: 405 | score: 0.487496
+alpha: 0.382979 | blend_labels: 405 | score: 0.584395
+alpha: 0.404255 | blend_labels: 405 | score: 0.688570
+alpha: 0.425532 | blend_labels: 405 | score: 0.811804
+alpha: 0.446809 | blend_labels: 405 | score: 0.826920
+alpha: 0.468085 | blend_labels: 405 | score: 0.892366
+alpha: 0.489362 | blend_labels: 405 | score: 0.941826
+alpha: 0.510638 | blend_labels: 405 | score: 0.964362
+alpha: 0.531915 | blend_labels: 405 | score: 0.980578
+alpha: 0.553191 | blend_labels: 405 | score: 0.991967
+alpha: 0.574468 | blend_labels: 405 | score: 0.997915
+alpha: 0.595745 | blend_labels: 405 | score: 0.999224
+alpha: 0.617021 | blend_labels: 405 | score: 0.999507
+alpha: 0.638298 | blend_labels: 405 | score: 0.999649
+alpha: 0.659574 | blend_labels: 405 | score: 0.999799
+alpha: 0.680851 | blend_labels: 405 | score: 0.999862
+alpha: 0.702128 | blend_labels: 405 | score: 0.999914
+alpha: 0.723404 | blend_labels: 405 | score: 0.999956
+alpha: 0.744681 | blend_labels: 405 | score: 0.999978
+alpha: 0.765957 | blend_labels: 405 | score: 0.999990
+alpha: 0.787234 | blend_labels: 405 | score: 0.999995
+alpha: 0.808511 | blend_labels: 405 | score: 0.999998
+alpha: 0.829787 | blend_labels: 405 | score: 0.999999
+alpha: 0.851064 | blend_labels: 405 | score: 0.999999
+alpha: 0.872340 | blend_labels: 405 | score: 1.000000
+alpha: 0.893617 | blend_labels: 405 | score: 1.000000
+alpha: 0.914894 | blend_labels: 405 | score: 1.000000
+alpha: 0.936170 | blend_labels: 405 | score: 1.000000
+alpha: 0.957447 | blend_labels: 405 | score: 1.000000
+alpha: 0.978723 | blend_labels: 405 | score: 0.999999
+alpha: 1.000000 | blend_labels: 405 | score: 0.999999
+[0.4874958395957947, 0.4527033269405365, 0.4182460606098175]
+[405, 814, 895]
+[0.36170212765957444, 0.2553191489361702, 0.23404255319148937]
+./img_blend/example_blend_exam_exam_895_405_0.4874958395957947.jpg was saved
+./img_blend/example_blend_exam_exam_895_814_0.4527033269405365.jpg was saved
+./img_blend/example_blend_exam_exam_895_895_0.4182460606098175.jpg was saved
+[0.07444136589765549, 0.33272770047187805, 0.20988748967647552, 0.10204599797725677, 0.15851184725761414, 0.0848708525300026, 0.2311878353357315, 0.12066428363323212, 0.14137527346611023, 0.11746986955404282, 0.09130839258432388, 0.12270237505435944, 0.0926433876156807, 0.14802150428295135, 0.09414145350456238, 0.1394844800233841, 0.34512072801589966, 0.12650640308856964, 0.14619852602481842, 0.33152565360069275, 0.09817133098840714, 0.21063189208507538, 0.1213778704404831, 0.07956395298242569, 0.14942993223667145, 0.23986753821372986, 0.09333998709917068, 0.1787623167037964, 0.14257659018039703, 0.09898792207241058, 0.39380693435668945, 0.13727432489395142, 0.0672924742102623, 0.12891428172588348]
+[517, 646, 647, 908, 913, 659, 405, 921, 923, 669, 417, 549, 934, 814, 433, 945, 441, 701, 959, 69, 71, 968, 456, 970, 971, 463, 977, 978, 980, 868, 116, 504, 764, 895]
+[0.5106382978723404, 0.7659574468085106, 0.6595744680851063, 0.48936170212765956, 0.7021276595744681, 0.5319148936170213, 0.6808510638297872, 0.3191489361702128, 0.0425531914893617, 0.5531914893617021, 0.23404255319148937, 0.0, 0.5319148936170213, 0.6808510638297872, 0.2553191489361702, 0.02127659574468085, 0.44680851063829785, 0.425531914893617, 0.3191489361702128, 0.48936170212765956, 0.5106382978723404, 0.48936170212765956, 0.7446808510638298, 0.1276595744680851, 0.3191489361702128, 0.6382978723404256, 0.2127659574468085, 0.40425531914893614, 0.6382978723404256, 0.10638297872340426, 0.6170212765957447, 0.5106382978723404, 0.10638297872340426, 0.6595744680851063]
+stats
+34
+0.15737743434660575
